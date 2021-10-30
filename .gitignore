@@ -1,0 +1,6 @@
+/project
+/target
+/.idea
+/.bsp
+
+example.sh
