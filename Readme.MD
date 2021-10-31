@@ -3,6 +3,7 @@
 Dies ist ein kleines Hilfsprogramm zur Aufbereitung der Trades in IBKR, so dass man die Ausgabe zur Prüfung der 
 eigenen Steuererklärung nutzen kann.
 
+Dies stellt keine Steuerberatung dar. Dieses Tool ist nicht von Interactive Brokers und steht in keiner Verbindung zu IBKR.
 Es wird keine Haftung übernommen.
 
 ## Referenzkurse
